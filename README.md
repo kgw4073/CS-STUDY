@@ -1,5 +1,6 @@
 # CS-STUDY
-CS Project
+Let's Play Tetris!
+
 Environment : Ubuntu 16.04.6 LTS (GNU/Linux 4.4.0-150-generic x86_64)
 Library : ncurses.h, unistd.h
 
